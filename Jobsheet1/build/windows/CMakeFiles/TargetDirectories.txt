@@ -1,0 +1,10 @@
+C:/Program/vscode/mobile5/project1/project1/build/windows/CMakeFiles/INSTALL.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/CMakeFiles/project1.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/CMakeFiles/ALL_BUILD.dir

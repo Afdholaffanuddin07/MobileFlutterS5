@@ -1,0 +1,10 @@
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/icudtl.dat
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/flutter_windows.dll
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Program/vscode/mobile5/project1/project1/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
