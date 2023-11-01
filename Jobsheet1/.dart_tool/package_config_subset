@@ -1,7 +1,3 @@
-project1
-3.1
-file:///C:/Program/vscode/mobile5/project1/project1/
-file:///C:/Program/vscode/mobile5/project1/project1/lib/
 async
 2.18
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0/
@@ -86,6 +82,10 @@ web
 3.1
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.1.4-beta/
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.1.4-beta/lib/
+project1
+3.1
+file:///C:/github/mobile/MobileFlutterS5/Jobsheet1/
+file:///C:/github/mobile/MobileFlutterS5/Jobsheet1/lib/
 sky_engine
 3.0
 file:///C:/src/flutter/bin/cache/pkg/sky_engine/
